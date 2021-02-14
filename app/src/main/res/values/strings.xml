@@ -13,11 +13,18 @@
     <string name="amigos">Amigos</string>
     <string name="amigoswin_gmail_com">amigoswin@gmail.com</string>
     <string name="login">LOGIN</string>
-    <string name="revenue">REVENUE</string>
     <string name="home">HOME</string>
     <string name="camera">CAMERA</string>
     <string name="my_profile">MY PROFILE</string>
     <string name="help">HELP</string>
     <string name="settings">SETTINGS</string>
     <string name="upload_new_place">UPLOAD NEW PLACE</string>
+    <string name="welcome_to_revenue">Welcome TO REVENUE</string>
+    <string name="map_area">MAP AREA</string>
+    <string name="revenue">REVENUE</string>
+    <string name="my_card">My Card</string>
+    <string name="_14k_visitors">14K Visitors</string>
+    <string name="_900_usd">$900 USD</string>
+    <string name="selected_location">SELECTED LOCATION</string>
+    <string name="image">image</string>
 </resources>
